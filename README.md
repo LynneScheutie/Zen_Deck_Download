@@ -26,16 +26,16 @@
 
 | 平台 | 版本 | 安装包 |
 | --- | --- | --- |
-| macOS | **4.2** | [Zen-Deck-4.2.dmg](https://github.com/LynneScheutie/Zen_Deck-download/releases/download/macOS-v4.2/Zen-Deck-4.2.dmg) · 35 MB |
-| Windows | **4.2** | [Zen-Deck-4.2-Windows.zip](https://github.com/LynneScheutie/Zen_Deck-download/releases/download/Windows-v4.2/Zen-Deck-4.2-Windows.zip) · 157 MB |
+| macOS | **4.2** | [Zen-Deck-4.2.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v4.2/Zen-Deck-4.2.dmg) · 35 MB |
+| Windows | **4.2** | [Zen-Deck-4.2-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.2/Zen-Deck-4.2-Windows.zip) · 157 MB |
 
 旧版本留在 [Releases](../../releases) 里：
 
 | 平台 | 版本 | 安装包 | 说明 |
 | --- | --- | --- | --- |
-| macOS | 4.1.1 | [Zen-Deck-4.1.1.dmg](https://github.com/LynneScheutie/Zen_Deck-download/releases/download/macOS-v4.1.1/Zen-Deck-4.1.1.dmg) · 20 MB | |
-| Windows | 4.1.1 | [Zen-Deck-4.1.1-Windows.zip](https://github.com/LynneScheutie/Zen_Deck-download/releases/download/Windows-v4.1.1/Zen-Deck-4.1.1-Windows.zip) · 143 MB | |
-| macOS | 3.2 | [Zen-Deck-3.2.dmg](https://github.com/LynneScheutie/Zen_Deck-download/releases/download/macOS-v3.2/Zen-Deck-3.2.dmg) · 75 MB | 改名前的最后一版，见下方说明 |
+| macOS | 4.1.1 | [Zen-Deck-4.1.1.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v4.1.1/Zen-Deck-4.1.1.dmg) · 20 MB | |
+| Windows | 4.1.1 | [Zen-Deck-4.1.1-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.1.1/Zen-Deck-4.1.1-Windows.zip) · 143 MB | |
+| macOS | 3.2 | [Zen-Deck-3.2.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v3.2/Zen-Deck-3.2.dmg) · 75 MB | 改名前的最后一版，见下方说明 |
 
 ## 安装
 
