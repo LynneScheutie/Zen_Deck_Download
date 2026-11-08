@@ -27,20 +27,23 @@
 | 平台 | 版本 | 安装包 |
 | --- | --- | --- |
 | macOS | **4.3** | [Zen-Deck-4.3.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v4.3/Zen-Deck-4.3.dmg) · 55 MB |
-| Windows | **4.2** | [Zen-Deck-4.2-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.2/Zen-Deck-4.2-Windows.zip) · 157 MB |
+| Windows | **4.3** | [Zen-Deck-4.3-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.3/Zen-Deck-4.3-Windows.zip) · 157 MB |
 
 旧版本留在 [Releases](../../releases) 里：
 
 | 平台 | 版本 | 安装包 | 说明 |
 | --- | --- | --- | --- |
 | macOS | 4.2 | [Zen-Deck-4.2.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v4.2/Zen-Deck-4.2.dmg) · 35 MB | 包体 1.2 GB、统计与番茄有问题的上一版 |
+| Windows | 4.2 | [Zen-Deck-4.2-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.2/Zen-Deck-4.2-Windows.zip) · 157 MB | 统计与番茄有问题的上一版 |
 | macOS | 4.1.1 | [Zen-Deck-4.1.1.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v4.1.1/Zen-Deck-4.1.1.dmg) · 20 MB | |
 | Windows | 4.1.1 | [Zen-Deck-4.1.1-Windows.zip](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/Windows-v4.1.1/Zen-Deck-4.1.1-Windows.zip) · 143 MB | |
 | macOS | 3.2 | [Zen-Deck-3.2.dmg](https://github.com/LynneScheutie/Zen_Deck_Download/releases/download/macOS-v3.2/Zen-Deck-3.2.dmg) · 75 MB | 改名前的最后一版，见下方说明 |
 
-### 4.3 改了什么（macOS）
+### 4.3 改了什么
 
-- **包体 1.2 GB → 55 MB**：改成干净虚拟环境按依赖清单安装，只带 WebKit 后端
+两个平台这版一起发的功能修复，macOS 这边另外把包体压掉了：
+
+- **macOS 包体 1.2 GB → 55 MB**：改成干净虚拟环境按依赖清单安装，只带 WebKit 后端（Windows 版本就是 Electron 绿色包，体积不变）
 - 「今日抽卡」「今日番茄」按本地零点归零、累计值保留；番茄钟改用绝对时间计算，休眠或卡顿后剩余时间仍然正确
 - 空格 / 回车只在抽卡页、无弹窗、焦点不在按钮上时才抽卡
 - 歌单重复导入自动去重；保存或删除失败会提示，以实际落盘为准
@@ -79,6 +82,7 @@ macOS 版内置了独立的运行环境，**不需要另外安装 Python**，要
 | 文件 | SHA-256 |
 | --- | --- |
 | `Zen-Deck-4.3.dmg` | `6530460c494ef6b66bac8807582f1d2e99141a09d05a717f9a1c0e409a571ca6` |
+| `Zen-Deck-4.3-Windows.zip` | `11987d066c5afdeee0953f28333d333dd7a162674dc9c7d9cf2b692772f7a6c5` |
 | `Zen-Deck-4.2.dmg` | `737d4ce3ef8260305a9c1723ce32ef0dbb986f711badce55212dbcce2b7cb844` |
 | `Zen-Deck-4.2-Windows.zip` | `9d26f36a8dac1f8489930b2d77ce9c6ea3086b34811cdaea89750cb6c020f34c` |
 | `Zen-Deck-4.1.1.dmg` | `51eeef43549d337ab9ce1e4347aa11fceeb215f9bb61c37d17ab098bcba7039e` |
